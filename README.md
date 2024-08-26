@@ -1,4 +1,3 @@
 <div align="center">
-  <h1>Hello, Nice To Meet You</h1>
-want to use this directory?
+  <h1>Want to use this directory for your bot?</h1>
 </div>
