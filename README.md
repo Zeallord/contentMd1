@@ -9,4 +9,6 @@
 - 🔭 I am Not programmer
  
 - 😎 I am Like Bot & Website
+
+- 🤝 I just copy paste
 </div>
